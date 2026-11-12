@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme {
+--font sans:'inter',sans-serif;
+--font barlow: 'barlow',sans serif;}
